@@ -18,9 +18,9 @@ Likewise accounting for outlying repetitions in the final trial mean, gsfc sorts
 * Uses c++11
 * Compile with g++
 
-### Installing
+### Compiling
 
-In a bash terminal inside the directory:
+In a terminal inside the directory:
 
 ```
 make
